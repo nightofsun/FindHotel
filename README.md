@@ -42,7 +42,7 @@ copy code from floder src/code_server to floder /src
 #### 4 run
 run server
 ```bash
-npm start server.js
+npm start /src/server.js
 ```
 ## Install web application
 have two way to install
